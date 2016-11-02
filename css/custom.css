@@ -1,0 +1,29 @@
+.icon-chat, .icon-clock, .icon-flag, .icon-desktop, .icon-tools, .icon-gears, .icon-camera, .icon-browser, .icon-heart{
+	color: #2b96fe;
+}
+
+.bg-dark{
+	background-color: #34495E;
+
+}
+
+.project-header{
+	padding-bottom: 200px;
+}
+
+.bs-icon{
+	color: #2b96fe;
+	
+}
+
+.js-icon{
+	color:#F6653C;
+}
+
+.flipp-icon{
+	color:#C89B62;
+}
+
+.project-header {
+    padding-bottom: 250px;
+}
